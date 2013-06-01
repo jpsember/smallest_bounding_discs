@@ -1,4 +1,4 @@
-Possible 1-Centers
+Smallest Bounding Discs of Imprecise Points
 ===========
 
 ![Screen shot.](screenshot.jpg)
